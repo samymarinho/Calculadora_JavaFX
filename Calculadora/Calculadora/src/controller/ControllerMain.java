@@ -33,7 +33,7 @@ public class ControllerMain {
     Double n1;
     Double n2;
     Double resultado;
-    
+    //divisão
     @FXML
     void actionDividir(ActionEvent event) {
     	n1 = Double.parseDouble(txtn1.getText());
